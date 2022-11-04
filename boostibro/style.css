@@ -1,0 +1,359 @@
+
+.fmm ul {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 125px;
+  
+}
+.fmm ul li{
+    padding-left: 15px;
+    list-style: none;
+}
+.btn{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+
+
+
+color: #FFFFFF !important;
+background: #575445 !important;
+border-radius: 6px;
+padding: 15px 30px;
+}
+.fmm ul li a {
+    float: right;
+}
+
+/* !!!!!!!!!00 */
+header{
+  background: url(/IMAGE\ \(9\).png)no-repeat center center/cover;
+  height: 89vh;
+  width: 100%;
+}
+.text-header {
+   
+
+   align-items: flex-end;
+  
+padding-top: 305px;
+   flex-direction: column;
+   color: #FFFFFF;
+
+   
+}
+.text-header h1{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* or 120% */
+
+
+color: #FFFFFF;
+}
+.text-header h4{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 140% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #E6B939;
+}
+.text-header p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 25px;
+/* or 148% */
+color: #CACCD1;
+}
+.kart-text{
+   
+    align-items: center;
+    justify-content: center;
+    padding-top: 142px;
+}
+.strelka{
+    display: flex;
+  
+    align-items: center;
+}
+
+.strelka img{
+    margin-top: -12px;
+    padding-left: 10px;
+}
+.card2{
+    height: 550px;
+    background: url(/IMAGE\ \(11\).png) no-repeat center center/cover;
+    border-radius: 10px;
+    width: 100%;
+  
+
+}
+.card-body{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 21px;
+/* identical to box height, or 140% */
+
+
+color: #575445;
+}
+.card6{
+    height: 550px;
+    background: url(/IMAGE\ \(12\).png) no-repeat center center/cover;
+    border-radius: 10px;
+    width: 100%;
+}
+.card5{
+    height: 550px;
+    background: url(/IMAGE\ \(13\).png) no-repeat center center/cover;
+    border-radius: 10px;
+    width: 100%;
+}
+.card7{
+    height: 550px;
+    background: url(/IMAGE\ \(14\).png) no-repeat center center/cover;
+    border-radius: 10px;
+    width: 100%;
+}
+.card3{
+    height: 550px;
+    background: url(/IMAGE\ \(15\).png) no-repeat center center/cover;
+    border-radius: 10px;
+    width: 100%;
+}
+.card4{
+    height: 550px;
+    background: url(/IMAGE\ \(16\).png) no-repeat center center/cover;
+    border-radius: 10px;
+    width: 100%;
+}
+.div-text h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 140% */
+    
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #E6B939;
+}
+.div-text h1{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #575445;
+}
+.div-text p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* or 120% */
+
+text-align: center;
+
+color: #575445;
+
+}
+.div-stre{
+    display: flex;
+    justify-content: center;
+    
+}
+.div-stre img{
+    padding-left: 15px;
+    margin-top: -5px;
+}
+
+
+
+.card4 {
+    position: relative;
+    
+    gap: 10px;
+    width: 100%;
+    height: 645px;
+    background: url(/IMAGE\ \(17\).png) no-repeat center center/cover;
+  }
+  .ikonka {
+    padding: 7px 10px;
+    margin-top: 570px;
+    display: flex;
+    float: right;
+    margin-right:25px ;
+  }
+  .ikonka h4 {
+    padding-top: 5px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .card4 .ikonka {
+    width: 600px;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+    background-color: #292c32;
+    gap: 20px;
+    border-radius: 16px;
+  }
+  .ikonka img{
+  height: 70;
+  }
+  .salom{
+    background: url(/Rectangle\ \(1\).png);
+   
+  }
+  .salom h1{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #E6B939;
+  }
+  .salom p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* or 120% */
+    
+    text-align: center;
+    
+    color: #FAFAFC;
+  }
+  .salom button{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 149% */
+
+text-align: center;
+
+color: #575445;
+
+
+background: #FFFFFF;
+border-radius: 6px;
+
+padding: 8px 16px;
+
+  }
+  .ikki-text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .ikki-text1{
+    display: flex;
+
+  }
+  .ikki-text1 h6{
+margin-top: 12px;
+padding-left: 12px;
+  }
+  span{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 15px;
+/* identical to box height, or 140% */
+
+
+color: #E6B939;
+
+  }
+  .ota h4{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 140% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #E6B939;
+
+  }
+  .ota h1{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+/* or 120% */
+
+
+color: #575445;
+  }
+  .ota p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* or 120% */
+
+
+color: #575445;
+
+  }
+  .div-ikki{
+ margin-top: 55px;
+  }
+  .div-strek1 h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    /* identical to box height, or 140% */
+    
+    
+    color: #575445;
+    display: flex;
+
+  }
+
